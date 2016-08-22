@@ -13,7 +13,7 @@ input,
 feedback,
 countElement,
 guessList;
-
+ 
 $(document).ready(pageLoad);
 
  function pageLoad(){
